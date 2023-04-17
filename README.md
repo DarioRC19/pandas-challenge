@@ -1,1 +1,3 @@
 # pandas-challenge
+
+This code runs CSV files of a school and students in a district and merges it into a pd dataframe. From there it shows an overview of the district, each school in the district, their performance, amount of students in schools, and how much money is allocaded to each school. There i googled for help with a specific change of the per student budget that would not change because of $ in the value that was speciying that the values in a cloumn was a string and it would not let me astype the value. Overall the sample helped a bunch with how the code should be displayed and what to do next. 
